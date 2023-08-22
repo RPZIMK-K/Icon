@@ -1,0 +1,68 @@
+nav{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+nav h1{
+    color: #ffffff;
+}
+
+nav h2{
+    color: #ffffff;
+}
+
+body{
+    color: #000000;
+    margin: 0px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Defender_icon{
+    text-align: center;
+}
+
+img{
+    justify-content: space-between;
+    width: 100px;
+    height: 100px;
+    padding: 16px;
+}
+
+header div{
+    text-align: center;
+}
+
+.Center{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: #36a52a
+}
+
+h2{
+    text-align: center;
+    color: #36a52a
+}
+
+div .Espaço{
+    color: #000000;
+    background-color: black;
+}
